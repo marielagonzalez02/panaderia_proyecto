@@ -8,7 +8,7 @@ function App() {
 
   return (
     <div className="app">
-      <h1>🥖 Panadería </h1>
+      <h1>🥖 Pan 8 n  </h1>
       <Search search={search} setSearch={setSearch} />
       <div className="grid">
         {filtered && filtered.length > 0 ? (
